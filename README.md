@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game 
 
 A simple browser-based Snake game built with vanilla HTML, CSS, and JavaScript.  
 This project recreates the classic Snake gameplay with score tracking, a timer, and persistent high scores using localStorage.
